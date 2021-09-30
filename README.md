@@ -8,7 +8,6 @@ Supplier Managemnt - Joachim
 HR Managemnt - Hilary
 
 User Managemnt - Mariyam
-
 Order Managemnt - Yadhushika
 Payment Managemnt - Agil
 Delivery Managemnt - Vithyashagar
